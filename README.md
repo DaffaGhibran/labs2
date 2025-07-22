@@ -4,7 +4,7 @@
 | --------------- | ----------------- |
 | **Nama**        | Daffa Gibran    |
 | **NIM**         | 312110371        |
-| **Kelas**       | TI.21.A.2         |
+| **Kelas**       | TI.23.A.1        |
 | **Mata Kuliah** | Pemrograman Web 2 |
 
 # Persiapan
